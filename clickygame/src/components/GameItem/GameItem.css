@@ -1,0 +1,9 @@
+img {
+    width: 200px;
+    height: auto;
+
+    margin: 5px;
+
+    border-radius: 12px;
+    border-style: groove;
+}

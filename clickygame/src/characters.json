@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "name": "Yoda",
+        "image": "assets/images/character0.jpeg",
+        "isClicked": false
+    },
+    {
+        "id": 1,
+        "name": "Anakin",
+        "image": "assets/images/character1.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 2,
+        "name": "Boba Fett",
+        "image": "assets/images/character2.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 3,
+        "name": "Chewbacca",
+        "image": "assets/images/character3.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 4,
+        "name": "Darth Vader",
+        "image": "assets/images/character4.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 5,
+        "name": "The Emperor",
+        "image": "assets/images/character5.jpeg",
+        "isClicked": false
+    },
+    {
+        "id": 6,
+        "name": "Han Solo",
+        "image": "assets/images/character6.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 7,
+        "name": "Jar Jar Binks",
+        "image": "assets/images/character7.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 8,
+        "name": "Leia",
+        "image": "assets/images/character8.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 9,
+        "name": "Luke Skywalker",
+        "image": "assets/images/character9.jpg",
+        "isClicked": false
+    }
+]
