@@ -2,3 +2,12 @@
     height: auto;
     width: 300px;
 }
+
+.scoreboard-div-text-text {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}

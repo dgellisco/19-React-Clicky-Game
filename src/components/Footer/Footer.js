@@ -3,7 +3,10 @@ import "./Footer.css";
 
 const Footer = () => (
     <footer className="footer">
-        THIS IS THE FOOTER
+        <span>
+            <a href="/">Home</a><span> | </span>
+            <a href="https://dgellisco.github.io/" target="_blank" rel="noopener noreferrer">Contact</a>
+        </span>
     </footer>
 );
 

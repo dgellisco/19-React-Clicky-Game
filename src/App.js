@@ -116,10 +116,10 @@ class App extends Component {
         <Scoreboard
           score = {this.state.score}
           highScore = {this.state.highScore}
-        />
-        <Header
           message = {this.state.message}
           messageClass = {this.state.messageClass}
+        />
+        <Header
         />
         <Game />
         <div class="game-div">
