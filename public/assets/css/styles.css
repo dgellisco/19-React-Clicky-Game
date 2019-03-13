@@ -1,7 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     min-height: 100%;
+    min-width: 340px;
     background-image: url("../images/background.jpg");
-    background-position: center center;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
     background-repeat: no-repeat;
-    
 }

@@ -1,9 +1,9 @@
 import React from "react";
 import "./Header.css";
 
-const Header = () => (
+const Header = (props) => (
     <div>
-        THIS IS THE HEADER
+        <span className={props.messageClass}>{props.message}</span>
     </div>
 );
 
